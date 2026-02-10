@@ -10,6 +10,18 @@
 <tr>
 
 <td width="230" style="padding:18px; background:#0d1117; border:1px solid #30363d; border-radius:16px;">
+  <b>💂‍♀️ LOAone</b><br/><br/>
+
+  <span style="color:#8b949e; font-size:13px;">
+    로스트아크 정보 서비스 아바타,프로필,즐겨찾기
+  </span><br/><br/>
+
+  <a href="https://loaone.vercel.app/" style="color:#43ffaf; text-decoration:none;">
+    ▶ User
+  </a>
+</td>
+
+<td width="230" style="padding:18px; background:#0d1117; border:1px solid #30363d; border-radius:16px;">
   <b>✈️ Travelidge User</b><br/><br/>
 
   <span style="color:#8b949e; font-size:13px;">
