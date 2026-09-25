@@ -10,6 +10,15 @@
   <tr align="center">
     <td width="220" style="padding: 20px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
       <br/>
+      <b style="font-size: 1.1rem;">🗓️ ONE SCHEDULE</b><br/><br/>
+      <span style="color: #8b949e; font-size: 13px; line-height: 1.5;">
+        개인·그룹 일정을 한 캘린더에서<br/>실시간 알림, 날씨·공휴일
+      </span><br/><br/><br/>
+      <a href="https://oneschedule.site" style="color: #43ffaf; text-decoration: none; font-size: 14px;"><b>▶ User</b></a>
+      <br/><br/>
+    </td>
+    <td width="220" style="padding: 20px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
+      <br/>
       <b style="font-size: 1.1rem;">💂‍♀️ LOAone</b><br/><br/>
       <span style="color: #8b949e; font-size: 13px; line-height: 1.5;">
         로스트아크 정보 서비스<br/>아바타, 프로필, 즐겨찾기
@@ -26,6 +35,8 @@
       <a href="https://travelidge.shop" style="color: #43ffaf; text-decoration: none; font-size: 14px;"><b>▶ User</b></a>
       <br/><br/>
     </td>
+  </tr>
+  <tr align="center">
     <td width="220" style="padding: 20px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px;">
       <br/>
       <b style="font-size: 1.1rem;">🛠️ Travelidge Admin</b><br/><br/>
